@@ -3,7 +3,7 @@ ETF Performance Insights &amp; Comparison using DuckDB and Tableau
 
 This project creates a pipeline for analyzing ETF (Exchange-Traded Fund) performance data. It pulls historical ETF price data from Kaggle, processes it using DuckDB, and visualizes the results in Power BI.
 
-![Screenshot](diagram.png)
+![Screenshot](assets/diagram.png)
 
 
 
@@ -55,8 +55,8 @@ Create interactive dashboards and reports
 
 
 ## Example Visualizations
-![Screenshot](chart1.png)
-![Screenshot](chart2.png)
+![Screenshot](assets/chart1.png)
+![Screenshot](assets/chart2.png)
 
 
 
